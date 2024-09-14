@@ -17,10 +17,10 @@ Medical image annotation for lesion segmentation is scarce and costly, particula
 
 ## Data<br>
 Download CT images of secondary pulmonary tuberculosis, pulmonary aspergillosis, lung adenocarcinoma cases from here<br>
-[Lung-Diseases-CT](URL "https://github.com/Tian-Yuan-ty/Lung-Diseases-CT")
+https://github.com/Tian-Yuan-ty/Lung-Diseases-CT<br>
 
 ## Usage<br>
 Download the ImageNet-pretrained weights of VGG16 network from torchvision: <br>
-[https://download.pytorch.org/models/vgg16-397923af.pth](URL "https://download.pytorch.org/models/vgg16-397923af.pth") and put it under `MSPO-Net/pretrained_model` folder.
+https://download.pytorch.org/models/vgg16-397923af.pth and put it under `MSPO-Net/pretrained_model` folder.<br>
 
 Change configuration via config.py, then train the model using python train.py or test the model using python test.py.<br>
