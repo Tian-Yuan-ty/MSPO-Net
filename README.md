@@ -7,7 +7,7 @@ Medical image annotation for lesion segmentation is scarce and costly, particula
 
 
 ## Dependencies<br>
-* Python==3.8<br>
+* Python==3.11<br>
 * PyTorch==1.0.1<br>
 * torchvision==0.2.1<br>
 * NumPy==1.22.0<br>
