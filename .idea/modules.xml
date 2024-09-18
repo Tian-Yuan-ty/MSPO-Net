@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PANet-master.iml" filepath="$PROJECT_DIR$/.idea/PANet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MSPONet-master.iml" filepath="$PROJECT_DIR$/.idea/MSPONet-master.iml" />
     </modules>
   </component>
 </project>
